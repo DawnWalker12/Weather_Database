@@ -1,2 +1,3 @@
 # World_Weather_Analysis
-Module 6.1.1
+## Project Purpose
+This challenge was to assist Jack to enhance the PlanMyTrip app by providing personalized experience for customers using API and gmaps. 
